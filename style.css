@@ -2,9 +2,15 @@
   display: grid;
   /* grid-template-columns: 100px 100px;
   grid-template-rows: 100px 50px; */
-  grid-template: 100px 50px / 100px 100px;
+  grid-template: 100px 50px / 200px 80px;
+  /* grid-auto-flow: column; */
+  grid-auto-rows: 100px;
+  /* gap: 20px; */
+  column-gap: 20px;
+  row-gap: 50px;
 }
-/* 
+
 .childs {
-  border: solid;
-} */
+  border: 1px solid green;
+  border-radius: 10px;
+}
