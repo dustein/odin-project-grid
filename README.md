@@ -1,3 +1,5 @@
-Treinamento Grid
+GRID
 Curso Odin Project 
-Modulo Grid
+
+Creating a Grid
+Intermediate HTML and CSS Course
